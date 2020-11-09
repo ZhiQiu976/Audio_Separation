@@ -5,7 +5,17 @@ Final Project for Duke ECE685D Fall 2020 (Introduction to Deep Learning), "Audio
 
 The goal of this project is to use nonlinear techniques such as deep learning to separate audio sources from their mixed signal. The mixed signal may be a mixture of music background, dog barking, and siren voice.
 
-## Project Outline
+
+## Reproducible Report
+
+- Title: 
+
+- Authors: Jiajun Song & Zhi (Heather) Qiu
+
+- TA: Mohammadreza Soltani
+
+
+## Outline
 
 ### Dataset
 
@@ -23,23 +33,20 @@ The goal of this project is to use nonlinear techniques such as deep learning to
 - CNN
 
   - [Audio Classification and Isolation: A Deep NeuralNetwork Approach](https://github.com/ahpvjk/audio-classification-and-isolation)
+  
 
 - Deep Clustering
 
+  - Hershey, John R., et al. “Deep clustering: Discriminative embeddings for segmentation and separation.” 2016 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2016.
+
+  - Wang, Zhong-Qiu, Jonathan Le Roux, and John R. Hershey. “Alternative objective functions for deep clustering.” 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2018.
+  
   - [Deep clustering using nussl](https://nussl.github.io/docs/examples/deep/deep_clustering.html)
-
-- Deep Mask Estimation
-  
-  - [Deep mask estimation using nussl](https://nussl.github.io/docs/examples/deep/deep_mask_estimation.html)
   
 
-### Reproducible Report
+  
 
-- Title: 
 
-- Authors: Jiajun Song & Zhi (Heather) Qiu
-
-- TA: Mohammadreza Soltani
 
 
 
