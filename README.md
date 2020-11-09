@@ -35,8 +35,6 @@ The goal of this project is to use nonlinear techniques such as deep learning to
 
 ### Reproducible Report
 
-## Reproducible Report
-
 - Title: 
 
 - Authors: Jiajun Song & Zhi (Heather) Qiu
