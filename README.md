@@ -1,4 +1,5 @@
 # Audio_Separation
+
 Final Project for Duke ECE685D Fall 2020 (Introduction to Deep Learning), "Audio Separation Using Deep Neural Networks"
 
 ## Project Goal
@@ -8,20 +9,17 @@ The goal of this project is to use nonlinear techniques such as deep learning to
 
 ## Reproducible Report
 
-- Title: 
+- Title: Audio Separation Using Deep Neural Networks
+
+- Reproducible colab notebook: [Audio_Separation_Demo.ipynb](https://colab.research.google.com/drive/1jBL5pusKt0ZcOHcxr8DnVxtNTbzk6o-e?usp=sharing)
 
 - Authors: Jiajun Song & Zhi (Heather) Qiu
 
 - TA: Mohammadreza Soltani
 
 
-## Outline
 
-### Dataset
-
-
-
-### Methods
+## Methods
 
 - ICA
 
