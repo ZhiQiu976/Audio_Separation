@@ -28,12 +28,17 @@ The goal of this project is to use nonlinear techniques such as deep learning to
   - The nussl library: [Independent Component Analysis using nussl](https://nussl.github.io/docs/examples/factorization/ica.html)
 
 
-- CNN
+- Open-unmix & Demucs
+
+  - [Open-Unmix for PyTorch](https://github.com/sigsep/open-unmix-pytorch)
+  
+
+- *CNN
 
   - [Audio Classification and Isolation: A Deep NeuralNetwork Approach](https://github.com/ahpvjk/audio-classification-and-isolation)
   
 
-- Deep Clustering
+- *Deep Clustering
 
   - Hershey, John R., et al. “Deep clustering: Discriminative embeddings for segmentation and separation.” 2016 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2016.
 
